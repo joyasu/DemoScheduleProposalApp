@@ -1,3 +1,11 @@
+//
+//  NowCard.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  予定一覧の中で現在時刻を示すカードを表示する。
+
 import SwiftUI
 
 struct NowCard: View {

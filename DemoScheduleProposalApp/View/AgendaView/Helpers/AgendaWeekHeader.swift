@@ -1,3 +1,11 @@
+//
+//  AgendaWeekHeader.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  週の日付と選択状態を表示し、日付選択や週の切り替えを受け付ける。
+
 import SwiftUI
 
 struct AgendaWeekHeader: View {

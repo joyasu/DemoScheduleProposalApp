@@ -1,3 +1,11 @@
+//
+//  SettingsViewModel.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  デバッグ用の全予定削除を処理し、失敗時の状態を管理する。
+
 import Foundation
 import Observation
 import SwiftData

@@ -1,3 +1,11 @@
+//
+//  ProposalService.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  車の経路検索で所要時間を取得し、予定間の移動と休憩を提案する。
+
 import Foundation
 import MapKit
 

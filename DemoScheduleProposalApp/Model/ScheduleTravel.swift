@@ -1,3 +1,11 @@
+//
+//  ScheduleTravel.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  出発地・目的地と出発・到着時刻を保持し、移動時間を計算する。
+
 import Foundation
 
 struct ScheduleTravel: Identifiable, Equatable {

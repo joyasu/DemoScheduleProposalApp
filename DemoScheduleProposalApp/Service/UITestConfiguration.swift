@@ -1,3 +1,11 @@
+//
+//  UITestConfiguration.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  デバッグ時のUIテスト用に、独立した保存先と固定の基準日時を設定する。
+
 import Foundation
 
 /// UI tests opt into an isolated, empty store. Release builds ignore these settings.

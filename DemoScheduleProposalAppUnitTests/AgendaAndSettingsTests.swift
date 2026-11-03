@@ -1,3 +1,11 @@
+//
+//  AgendaAndSettingsTests.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  提案対象の区間選択、予定の完了操作、設定からのデータ削除を検証するテスト。
+
 import Foundation
 import SwiftData
 import Testing

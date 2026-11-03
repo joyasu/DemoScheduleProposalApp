@@ -1,3 +1,11 @@
+//
+//  CurrentLocationError.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  現在地取得の権限拒否や取得失敗を表し、利用者向けの説明を提供する。
+
 import Foundation
 
 enum CurrentLocationError: LocalizedError {

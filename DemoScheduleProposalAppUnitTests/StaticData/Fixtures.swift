@@ -1,3 +1,11 @@
+//
+//  Fixtures.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  各テストで使用する予定、場所、日時などの独立したテストデータを生成する。
+
 import Foundation
 import CoreLocation
 import Testing

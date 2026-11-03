@@ -1,3 +1,11 @@
+//
+//  DemoScheduleProposalAppUITests.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  画面操作を通じて予定の作成・編集・削除などを検証するUIテスト。
+
 import XCTest
 import XCUIAutomation
 

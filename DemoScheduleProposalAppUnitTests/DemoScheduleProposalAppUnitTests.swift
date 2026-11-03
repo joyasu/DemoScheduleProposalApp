@@ -1,3 +1,11 @@
+//
+//  DemoScheduleProposalAppUnitTests.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  提案結果の場所補完、現在地取得、提案の読み込みなどを検証するテスト。
+
 import Foundation
 import Testing
 @testable import DemoScheduleProposalApp

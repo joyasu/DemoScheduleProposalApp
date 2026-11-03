@@ -1,3 +1,11 @@
+//
+//  ScheduleDay.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  予定を日付ごとにまとめ、終日予定や進行中の予定の表示日を調整する。
+
 import Foundation
 
 struct ScheduleDay: Identifiable {

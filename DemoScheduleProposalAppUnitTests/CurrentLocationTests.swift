@@ -1,3 +1,11 @@
+//
+//  CurrentLocationTests.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  現在地取得の権限処理、位置情報の検証、失敗時の動作を検証するテスト。
+
 import Foundation
 import CoreLocation
 import Testing

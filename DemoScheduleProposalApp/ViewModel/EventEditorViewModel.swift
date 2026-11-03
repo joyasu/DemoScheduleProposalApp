@@ -1,3 +1,11 @@
+//
+//  EventEditorViewModel.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  予定の下書きと日時の整合性を管理し、保存・削除を処理する。
+
 import Foundation
 import Observation
 import SwiftData

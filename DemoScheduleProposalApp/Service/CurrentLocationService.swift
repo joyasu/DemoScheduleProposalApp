@@ -1,3 +1,11 @@
+//
+//  CurrentLocationService.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  位置情報の利用許可を確認し、タイムアウトやキャンセルに対応して現在地を取得する。
+
 import Foundation
 import CoreLocation
 

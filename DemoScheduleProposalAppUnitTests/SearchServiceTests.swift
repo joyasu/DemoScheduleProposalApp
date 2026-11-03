@@ -1,3 +1,11 @@
+//
+//  SearchServiceTests.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  経路検索による提案生成と場所検索の正常系・異常系を検証するテスト。
+
 import Foundation
 import MapKit
 import Testing

@@ -1,3 +1,11 @@
+//
+//  TravelCard.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  移動の出発地、目的地、時間帯、所要時間をカードとして表示する。
+
 import SwiftUI
 
 struct TravelCard: View {

@@ -1,3 +1,11 @@
+//
+//  AgendaListView.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  週カレンダーと日別の予定一覧を表示し、日付選択とスクロールを連動させる。
+
 import SwiftUI
 
 struct AgendaListView: View {

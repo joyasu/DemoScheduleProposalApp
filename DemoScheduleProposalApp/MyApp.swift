@@ -1,3 +1,11 @@
+//
+//  MyApp.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  アプリの起点として画面とデータ保存先を構成し、デバッグ時のデモデータを準備する。
+
 import SwiftUI
 import SwiftData
 

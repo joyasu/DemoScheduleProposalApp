@@ -1,3 +1,11 @@
+//
+//  SettingsView.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  設定画面を表示し、デバッグ時の全データ削除と確認・エラー表示を提供する。
+
 import SwiftUI
 import SwiftData
 

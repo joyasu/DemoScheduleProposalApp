@@ -1,3 +1,11 @@
+//
+//  ProposalResultViewModel.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  提案に必要な場所や現在地を補完し、提案の取得状態と結果を管理する。
+
 import Foundation
 import Observation
 import CoreLocation

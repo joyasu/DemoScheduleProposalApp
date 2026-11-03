@@ -1,3 +1,11 @@
+//
+//  AgendaViewModel.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  予定の日別表示と空き区間を更新し、区間選択や予定の完了状態を管理する。
+
 import Foundation
 import Observation
 import SwiftData

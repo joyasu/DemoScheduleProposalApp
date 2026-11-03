@@ -1,3 +1,11 @@
+//
+//  ScheduleCardFrame.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  予定・移動カードに共通する枠や見出しを表示し、提案用の装飾を切り替える。
+
 import SwiftUI
 
 struct ScheduleCardFrame<Content: View>: View {

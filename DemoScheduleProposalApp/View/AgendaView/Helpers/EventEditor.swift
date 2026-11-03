@@ -1,3 +1,11 @@
+//
+//  EventEditor.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  予定のタイトル、日時、場所、メモを編集し、保存・削除する画面。
+
 import SwiftUI
 import SwiftData
 

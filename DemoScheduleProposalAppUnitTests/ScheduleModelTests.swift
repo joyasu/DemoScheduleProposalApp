@@ -1,3 +1,11 @@
+//
+//  ScheduleModelTests.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  予定の日別分類、進行中判定、空き区間などのモデル処理を検証するテスト。
+
 import Foundation
 import SwiftData
 import Testing

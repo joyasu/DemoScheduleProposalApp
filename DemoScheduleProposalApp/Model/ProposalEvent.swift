@@ -1,3 +1,11 @@
+//
+//  ProposalEvent.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  提案処理で使用する予定の値を保持し、現在地を起点とする予定も表現する。
+
 import Foundation
 import SwiftData
 

@@ -1,3 +1,11 @@
+//
+//  TestSupport.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  単体テスト用の保存先、非同期処理の同期手段、位置情報の代替実装を提供する。
+
 import Foundation
 import SwiftData
 import CoreLocation

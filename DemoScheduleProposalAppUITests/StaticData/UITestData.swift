@@ -1,3 +1,11 @@
+//
+//  UITestData.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  UIテストで使用する起動設定、入力値、画面要素の識別子を定義する。
+
 import Foundation
 
 enum UITestData {

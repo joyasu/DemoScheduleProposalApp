@@ -1,3 +1,11 @@
+//
+//  EventCard.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  予定のタイトル、日時、場所、メモを通常または提案用のカードとして表示する。
+
 import SwiftUI
 
 struct EventCard: View {

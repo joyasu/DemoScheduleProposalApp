@@ -1,3 +1,11 @@
+//
+//  AgendaDaySection.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  日付ごとの予定、現在時刻、空き区間などを一覧のセクションとして表示する。
+
 import SwiftUI
 
 struct AgendaDaySection: View {

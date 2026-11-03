@@ -1,3 +1,11 @@
+//
+//  ScheduleEvent.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  予定の日時、場所、完了状態などを保存し、指定時刻に進行中かどうかを判定する。
+
 import Foundation
 import SwiftData
 

@@ -1,3 +1,10 @@
+//
+//  EventEditorTests.swift
+//  DemoScheduleProposalApp
+//
+//
+//  予定の下書き、入力検証、日時調整、保存・削除を検証するテスト。
+
 import Foundation
 import SwiftData
 import Testing

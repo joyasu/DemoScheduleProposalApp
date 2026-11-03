@@ -1,3 +1,11 @@
+//
+//  ProposalGap.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  空き区間への移動・休憩の提案と、提案できない理由や案内を表す。
+
 import Foundation
 
 enum ProposalGap: Equatable {

@@ -1,3 +1,11 @@
+//
+//  TestData.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  単体テストで共有する入力値、境界値、期待値などの定数を定義する。
+
 import Foundation
 import CoreLocation
 

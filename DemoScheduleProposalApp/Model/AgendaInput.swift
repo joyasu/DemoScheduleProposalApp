@@ -1,3 +1,11 @@
+//
+//  AgendaInput.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  予定、現在時刻、カレンダーの値を保持し、一覧更新に必要な変更を検出する。
+
 import Foundation
 import SwiftData
 

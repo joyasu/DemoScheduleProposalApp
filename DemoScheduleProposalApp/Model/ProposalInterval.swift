@@ -1,3 +1,11 @@
+//
+//  ProposalInterval.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  予定の重複や完了状態を考慮し、移動・休憩を提案できる空き区間を抽出する。
+
 import Foundation
 
 struct ProposalInterval: Identifiable {

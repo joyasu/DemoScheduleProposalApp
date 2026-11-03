@@ -1,3 +1,11 @@
+//
+//  AgendaEventRow.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  予定一覧の行を表示し、編集、完了状態の切り替え、選択中の表示を扱う。
+
 import SwiftUI
 import SwiftData
 

@@ -1,3 +1,11 @@
+//
+//  EventLocationSection.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  予定の場所と住所を表示し、場所の追加・変更・解除を受け付ける。
+
 import SwiftUI
 
 struct EventLocationSection: View {

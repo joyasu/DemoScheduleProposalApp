@@ -1,3 +1,11 @@
+//
+//  LocationPicker.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  場所の検索結果や自由入力から、予定に設定する場所を選択する画面。
+
 import SwiftUI
 
 struct LocationPicker: View {

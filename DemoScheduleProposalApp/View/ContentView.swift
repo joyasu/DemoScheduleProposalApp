@@ -1,3 +1,11 @@
+//
+//  ContentView.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  予定一覧を表示し、予定の追加・編集画面と設定画面への遷移を管理する。
+
 import SwiftUI
 import SwiftData
 

@@ -1,3 +1,11 @@
+//
+//  MaintainabilityTests.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  予定一覧の更新、カレンダー管理、共通モデルの整合性を検証するテスト。
+
 import Foundation
 import SwiftData
 import Testing

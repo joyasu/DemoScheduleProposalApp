@@ -1,3 +1,11 @@
+//
+//  AgendaCalendarViewModel.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  週の日付、選択日、閲覧履歴を管理し、一覧に表示する日付を構成する。
+
 import Foundation
 import Observation
 

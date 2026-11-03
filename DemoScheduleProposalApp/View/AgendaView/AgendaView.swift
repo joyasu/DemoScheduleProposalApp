@@ -1,3 +1,11 @@
+//
+//  AgendaView.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  予定一覧と区間選択の操作を提供し、選択した区間の提案結果を表示する。
+
 import SwiftUI
 import SwiftData
 

@@ -1,3 +1,11 @@
+//
+//  ProposalGapView.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  空き区間への移動・休憩の提案と、関連する案内メッセージを表示する。
+
 import SwiftUI
 
 struct ProposalGapView: View {

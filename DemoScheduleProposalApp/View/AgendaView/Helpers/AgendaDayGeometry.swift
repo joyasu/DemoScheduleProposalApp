@@ -1,3 +1,11 @@
+//
+//  AgendaDayGeometry.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  日別の表示領域を収集し、予定一覧のスクロール位置と日付の連動に利用する。
+
 import SwiftUI
 
 struct AgendaDayFrames: PreferenceKey {

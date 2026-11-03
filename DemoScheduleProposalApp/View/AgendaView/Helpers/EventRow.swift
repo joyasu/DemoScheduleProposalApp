@@ -1,3 +1,11 @@
+//
+//  EventRow.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  保存済みの予定をカードとして表示し、編集操作の案内を付ける。
+
 import SwiftUI
 
 struct EventRow: View {

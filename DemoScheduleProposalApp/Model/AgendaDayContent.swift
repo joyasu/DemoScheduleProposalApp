@@ -1,3 +1,11 @@
+//
+//  AgendaDayContent.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  日別の予定一覧に表示する予定、空き区間、現在時刻などの行データを構成する。
+
 import Foundation
 import SwiftData
 

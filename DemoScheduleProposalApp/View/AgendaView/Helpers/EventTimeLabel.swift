@@ -1,3 +1,11 @@
+//
+//  EventTimeLabel.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  予定の日時を、終日や日付をまたぐ場合に応じた形式で表示する。
+
 import SwiftUI
 
 struct EventTimeLabel: View {

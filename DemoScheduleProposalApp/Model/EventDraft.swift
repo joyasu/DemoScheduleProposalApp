@@ -1,3 +1,11 @@
+//
+//  EventDraft.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  新規作成・編集中の予定の入力値を、保存前の下書きとして保持する。
+
 import Foundation
 
 struct EventDraft: Identifiable {

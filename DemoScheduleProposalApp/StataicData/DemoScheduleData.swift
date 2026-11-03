@@ -1,3 +1,11 @@
+//
+//  DemoScheduleData.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  予定一覧や提案機能の動作確認に使うデモ予定を生成し、空の保存先へ登録する。
+
 import Foundation
 import SwiftData
 

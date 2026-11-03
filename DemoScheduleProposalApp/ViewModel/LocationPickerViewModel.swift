@@ -1,3 +1,11 @@
+//
+//  LocationPickerViewModel.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  入力文字列に基づく場所検索と、検索結果・処理状態・案内を管理する。
+
 import Foundation
 import Observation
 import MapKit

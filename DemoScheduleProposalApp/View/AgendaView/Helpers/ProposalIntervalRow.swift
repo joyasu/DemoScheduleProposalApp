@@ -1,3 +1,11 @@
+//
+//  ProposalIntervalRow.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  提案対象として選択できる空き区間の案内と時間帯を表示する。
+
 import SwiftUI
 
 struct ProposalIntervalRow: View {

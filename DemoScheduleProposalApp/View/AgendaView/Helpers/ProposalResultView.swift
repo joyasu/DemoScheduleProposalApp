@@ -1,3 +1,11 @@
+//
+//  ProposalResultView.swift
+//  DemoScheduleProposalApp
+//
+
+//
+//  選択した区間の提案結果と読み込み状態を表示し、不足する場所の設定を受け付ける。
+
 import SwiftUI
 
 struct ProposalResultView: View {
